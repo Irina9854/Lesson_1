@@ -20,3 +20,15 @@ if (d > max1) max1 = d;
 
 Console.Write("max1 = ");
 Console.WriteLine(max1);
+
+
+int e = -9;
+int f = -3;
+
+int max2 = e;
+
+if (e > max2) max2 = e;
+if (f > max2) max2 = f;
+
+Console.Write("max2 = ");
+Console.WriteLine(max2);
